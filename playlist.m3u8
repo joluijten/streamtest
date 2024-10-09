@@ -14,6 +14,10 @@ playlist3.ts
 playlist4.ts
 #EXTINF:10.010000,
 playlist5.ts
+#EXT-X-DISCONTINUITY
+#EXTINF:13.5,
+ad1.ts
+#EXT-X-DISCONTINUITY
 #EXTINF:10.010000,
 playlist6.ts
 #EXTINF:10.010000,
@@ -24,6 +28,10 @@ playlist8.ts
 playlist9.ts
 #EXTINF:10.010000,
 playlist10.ts
+#EXT-X-DISCONTINUITY
+#EXTINF:13.5,
+ad2.ts
+#EXT-X-DISCONTINUITY
 #EXTINF:10.010000,
 playlist11.ts
 #EXTINF:10.010000,
@@ -36,6 +44,10 @@ playlist14.ts
 playlist15.ts
 #EXTINF:10.010000,
 playlist16.ts
+#EXT-X-DISCONTINUITY
+#EXTINF:13.5,
+ad3.ts
+#EXT-X-DISCONTINUITY
 #EXTINF:10.010000,
 playlist17.ts
 #EXTINF:10.010000,
@@ -46,6 +58,10 @@ playlist19.ts
 playlist20.ts
 #EXTINF:10.010000,
 playlist21.ts
+#EXT-X-DISCONTINUITY
+#EXTINF:13.5,
+ad4.ts
+#EXT-X-DISCONTINUITY
 #EXTINF:10.010000,
 playlist22.ts
 #EXTINF:10.010000,
